@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "562505903698",
+    "project_id": "agromart-4312f",
+    "storage_bucket": "agromart-4312f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562505903698:android:1bbb51e43e8361b21df98b",
+        "android_client_info": {
+          "package_name": "com.bhagatram.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562505903698-r3pr8scmifu9c314qgk38d2jajsftfs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5OFmaxKd6NYkCWBwtKQ0uXhjuXplhsqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562505903698-r3pr8scmifu9c314qgk38d2jajsftfs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562505903698:android:656f4307f08e07da1df98b",
+        "android_client_info": {
+          "package_name": "com.alpha.agriclutureecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562505903698-a7ht1a1q53o4fcnf1kcfet2c75uiigo3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alpha.agriclutureecommerce",
+            "certificate_hash": "7bc60690c3b7437d2c13da6abc0539fe851224c7"
+          }
+        },
+        {
+          "client_id": "562505903698-r3pr8scmifu9c314qgk38d2jajsftfs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5OFmaxKd6NYkCWBwtKQ0uXhjuXplhsqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562505903698-r3pr8scmifu9c314qgk38d2jajsftfs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
